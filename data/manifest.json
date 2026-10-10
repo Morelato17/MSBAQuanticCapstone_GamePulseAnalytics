@@ -1,0 +1,15 @@
+{
+  "frozen_on": "2026-10-10",
+  "first_day": "2026-05-23",
+  "last_day": "2026-10-09",
+  "rows": {
+    "user_activity": 142406,
+    "membership_history": 50171,
+    "chats": 214
+  },
+  "pseudonymised": [
+    "chat ids",
+    "chat titles",
+    "user ids"
+  ]
+}
