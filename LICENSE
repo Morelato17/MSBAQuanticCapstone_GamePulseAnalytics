@@ -1,0 +1,55 @@
+GamePulse Analytics — Evaluation-Only License
+
+Copyright (c) 2026 Dylan Morelato. All rights reserved.
+
+This repository — including its source code, documentation and the data in the
+`data/` directory (together, the "Materials") — is made publicly visible solely so
+that it can be reviewed. Visibility does not grant any right beyond those stated
+below.
+
+1. Permitted use
+
+   You may view the Materials, download them, and run them on your own computer,
+   only for the purpose of evaluating, grading or reviewing this MSBA capstone
+   project ("Evaluation").
+
+2. Restrictions
+
+   Except as expressly permitted in section 1, you may not, in whole or in part:
+
+   a. copy, publish, redistribute, sublicense, sell, host or otherwise make the
+      Materials available to any third party, including by deploying them as a
+      publicly accessible service;
+   b. modify the Materials or create derivative works based on them;
+   c. use the Materials for any commercial purpose;
+   d. use the data for any purpose other than Evaluation, including research,
+      benchmarking, publication or the training, fine-tuning or evaluation of
+      machine-learning models;
+   e. attempt to re-identify any person, user account or chat described by the
+      data, or combine the data with any other information to do so.
+
+   Forking this repository through the GitHub interface, as allowed by GitHub's
+   Terms of Service, grants no right beyond those in section 1.
+
+3. Data
+
+   The data are pseudonymised activity statistics from a real online community.
+   Chat identifiers, chat titles and user identifiers have been replaced with
+   synthetic values, and no message content, names or usernames are included.
+   If you believe you have identified a person or a chat, stop processing the
+   data and notify the copyright holder.
+
+4. Termination
+
+   Any breach of these terms automatically terminates your permission to use the
+   Materials. On termination you must delete every copy in your possession.
+
+5. No warranty
+
+   THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES
+   OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE MATERIALS OR
+   THEIR USE.
+
+For any use not covered by this license, written permission from the copyright
+holder is required.

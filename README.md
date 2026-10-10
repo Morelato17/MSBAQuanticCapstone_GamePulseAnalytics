@@ -34,11 +34,8 @@ pip install -r requirements.txt
 streamlit run app/dashboard_app.py
 ```
 
-### Hosted (Streamlit Community Cloud)
-
-The repo deploys as-is on [Streamlit Community Cloud](https://share.streamlit.io):
-**New app** → this repository, branch `main`, main file path `app/dashboard_app.py`,
-Python 3.12 under *Advanced settings*.
+Running it locally for evaluation is the only use the [license](#license) allows; please
+do not redeploy it as a public service.
 
 ## Using the dashboard
 
@@ -101,3 +98,10 @@ requirements.txt       pinned dependencies
 - **Fixed anchors.** Metric normalisation uses anchors frozen from the network
   distribution (`frozen_anchors()` in `scoring_model.py`); they are not re-derived from
   the period you select.
+
+## License
+
+**All rights reserved — evaluation only.** You may view, download and run this project
+locally to evaluate or review the capstone. Redistribution, modification, commercial
+use, any other use of the data and any attempt to re-identify people or chats are not
+permitted. See [`LICENSE`](LICENSE) for the full terms.
